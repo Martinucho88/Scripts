@@ -1,0 +1,2 @@
+ddcutil --bus 9 setvcp 10 100
+redshift -O 6500k -P

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+xrandr --output eDP --mode 1920x1080 --rate 60 --primary 
+xrandr --output DP-1-0 --off
+xrandr --output DP-1-2 --off
